@@ -1,0 +1,11 @@
+User-agent: *
+Allow:  /
+Disallow: /core/
+Disallow: /cnnctrs/
+Disallow: /api/
+Disallow: /config/
+Disallow: /assets/
+Disallow: /sub/
+Clean-param: hauth_action *
+Clean-param: lang *
+Host: smartlaft.ru
